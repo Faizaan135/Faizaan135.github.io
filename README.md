@@ -10,7 +10,7 @@ This repository is the public site source for **ABBAS Engineering**, an independ
 
 ## Current projects
 - **[AE-001 — Gesture Keyboard V2](https://github.com/Faizaan135/AE-001-Gesture-Keyboard-V2)** — requirements and feasibility; prototype performance is not yet validated.
-- **[FPGA Professional Development](https://github.com/Faizaan135/fpga-professional-development)** — ongoing technical learning programme.
+- **FPGA Professional Development** — ongoing technical learning programme in a private working repository; not linked publicly.
 
 ## Repository layout
 - `index.html` — portfolio homepage.
