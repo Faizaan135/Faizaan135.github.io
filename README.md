@@ -10,6 +10,7 @@ This repository is the public site source for **ABBAS Engineering**, an independ
 
 ## Current projects
 - **[AE-001 — Gesture Keyboard V2](https://github.com/Faizaan135/AE-001-Gesture-Keyboard-V2)** — requirements and feasibility; prototype performance is not yet validated.
+- **AE-002 — FitHub** — private iOS fitness product at requirements stage; source remains private and no release is claimed.
 - **FPGA Professional Development** — ongoing technical learning programme in a private working repository; not linked publicly.
 
 ## Repository layout
